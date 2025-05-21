@@ -43,6 +43,7 @@ F:	package/flutter-pi/
 F:	package/flutter-sdk-bin/
 F:	package/ivi-homescreen/
 F:	package/libutempter/
+F:	package/mender-update-modules/
 F:	package/tllist/
 F:	support/testing/tests/package/test_flutter.py
 
@@ -1131,6 +1132,9 @@ F:	package/rsyslog/
 
 N:	Florian Fainelli <f.fainelli@gmail.com>
 F:	package/cpulimit/
+
+N:	Florian Larysch <fl@n621.de>
+F:	package/casync-nano/
 
 N:	Floris Bos <bos@je-eigen-domein.nl>
 F:	package/ipmitool/
@@ -3503,6 +3507,7 @@ F:	package/libuci/
 F:	package/libxmlb/
 F:	package/linux-firmware/
 F:	package/linux-serial-test/
+F:	package/lpac/
 F:	package/modem-manager/
 F:	package/ncftp/
 F:	package/nftables/
